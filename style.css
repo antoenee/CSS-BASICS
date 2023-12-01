@@ -1,0 +1,19 @@
+body {
+
+    background-color: coral;
+
+}
+
+
+h2 {
+
+    background-color: maroon;
+
+    color: white;
+
+    padding: 10px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 0 10px black;
+}
